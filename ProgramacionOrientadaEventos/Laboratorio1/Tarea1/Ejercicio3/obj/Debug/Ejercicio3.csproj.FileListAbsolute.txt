@@ -1,0 +1,33 @@
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.MainForm.Contador.resources
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\source\repos\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.MainForm.Contador.resources
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.MainForm.Contador.resources
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 2 - 2do Ciclo\Programacion de eventos\Actividades\Tarea#1TrabajoEnEquipo\Ejercicio3\obj\Debug\Ejercicio3.pdb
