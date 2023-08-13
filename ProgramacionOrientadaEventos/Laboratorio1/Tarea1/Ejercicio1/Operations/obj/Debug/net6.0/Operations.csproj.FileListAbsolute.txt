@@ -1,0 +1,12 @@
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\bin\Debug\net6.0\Operations.deps.json
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\bin\Debug\net6.0\Operations.dll
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\bin\Debug\net6.0\Operations.pdb
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.csproj.AssemblyReference.cache
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.dll
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\refint\Operations.dll
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\Operations.pdb
+D:\Documentos\Ejercicios de laboratorio\Ejercicio1\Operations\obj\Debug\net6.0\ref\Operations.dll
