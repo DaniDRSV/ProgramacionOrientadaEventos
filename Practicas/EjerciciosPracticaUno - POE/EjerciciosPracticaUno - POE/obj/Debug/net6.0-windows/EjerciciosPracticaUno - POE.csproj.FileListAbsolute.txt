@@ -1,0 +1,17 @@
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.AssemblyInfo.cs
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno___POE.Forms.Ejercicios.resources
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\bin\Debug\net6.0-windows\EjerciciosPracticaUno - POE.exe
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\bin\Debug\net6.0-windows\EjerciciosPracticaUno - POE.deps.json
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\bin\Debug\net6.0-windows\EjerciciosPracticaUno - POE.runtimeconfig.json
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\bin\Debug\net6.0-windows\EjerciciosPracticaUno - POE.dll
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\bin\Debug\net6.0-windows\EjerciciosPracticaUno - POE.pdb
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.dll
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\refint\EjerciciosPracticaUno - POE.dll
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.pdb
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\EjerciciosPracticaUno - POE.genruntimeconfig.cache
+C:\Users\maste\source\repos\EjerciciosPracticaUno - POE\EjerciciosPracticaUno - POE\obj\Debug\net6.0-windows\ref\EjerciciosPracticaUno - POE.dll
