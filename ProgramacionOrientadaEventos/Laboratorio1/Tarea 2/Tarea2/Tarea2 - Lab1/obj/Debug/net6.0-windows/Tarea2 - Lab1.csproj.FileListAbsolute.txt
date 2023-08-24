@@ -1,0 +1,20 @@
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.csproj.AssemblyReference.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.csproj.GenerateResource.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.AssemblyInfo.cs
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\Tarea2 - Lab1.exe
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\Tarea2 - Lab1.deps.json
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\Tarea2 - Lab1.runtimeconfig.json
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\Tarea2 - Lab1.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\Tarea2 - Lab1.pdb
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\refint\Tarea2 - Lab1.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.pdb
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.genruntimeconfig.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\ref\Tarea2 - Lab1.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2___Lab1.Forms.MainForm.resources
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\employeesLibrary.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\bin\Debug\net6.0-windows\employeesLibrary.pdb
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\Tarea2 - Lab1\obj\Debug\net6.0-windows\Tarea2 - Lab1.csproj.CopyComplete

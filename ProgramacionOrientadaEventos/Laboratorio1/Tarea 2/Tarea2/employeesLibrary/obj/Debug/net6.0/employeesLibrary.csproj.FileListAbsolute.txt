@@ -1,0 +1,12 @@
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\bin\Debug\net6.0\employeesLibrary.deps.json
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\bin\Debug\net6.0\employeesLibrary.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\bin\Debug\net6.0\employeesLibrary.pdb
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.csproj.AssemblyReference.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.AssemblyInfoInputs.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.AssemblyInfo.cs
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\refint\employeesLibrary.dll
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\employeesLibrary.pdb
+C:\Users\maste\Documents\Practicas de Programacion Orientada a Eventos\EjerciciosPracticaTres - POE\Tarea2 - Lab1\employeesLibrary\obj\Debug\net6.0\ref\employeesLibrary.dll
